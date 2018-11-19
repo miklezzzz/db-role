@@ -1,4 +1,4 @@
-Role Name
+Role Name - DB  [![Build Status](https://travis-ci.com/miklezzzz/db-role.svg?branch=master)](https://travis-ci.com/miklezzzz/db-role)
 =========
 
 A brief description of the role goes here.
